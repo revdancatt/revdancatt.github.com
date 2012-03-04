@@ -1,0 +1,91 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.hidden {
+    display: none;
+}
+
+#searchform {
+    display: none;
+    margin-bottom: 0;
+}
+
+#masterResults {
+    display: none;
+}
+
+#searchPage {
+    display: none;
+}
+
+.extract {
+    margin-top: 20px;
+}
+
+.tag-button {
+    float: left;
+    margin-right: 8px;
+    margin-bottom: 4px;
+}
+
+#tagHolder {
+    clear: both;
+}
+
+#leftTotal {
+    display: none;
+}
+
+.result .wordcount {
+    color: black;
+}
+
+.result .form-actions {
+    margin-bottom: 0;
+}
+.original {
+    margin-right: 4px;
+    text-decoration: underline;
+}
+
+.padright {
+    margin-right: 16px;
+}
+
+.floaty {
+    float: right;
+}
+
+.story h1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#books .pagination {
+    text-align: center;
+}
+
+.optional {
+    color: #999;
+    font-size: 0.85em;
+}
+
+#feedback {
+    position: fixed;
+    left: 10px;
+    top: 50px;
+    overflow: visible;
+    margin-left: 0;
+}
+
+#feedback .report {
+    background: rgba(32,32,32,0.66);
+    color: white;
+    font-size: 0.9em;
+    line-height: 1.2em;
+    padding: 8px;
+    display: none;
+    margin-bottom: 4px;
+}
