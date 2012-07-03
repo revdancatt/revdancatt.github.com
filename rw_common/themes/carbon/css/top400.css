@@ -1,0 +1,7 @@
+#container .padding{ top: -400px; }
+@media screen and (max-width: 1000px) {#container .padding { top: -340px; }}
+@media screen and (max-width: 800px) {#container .padding { top: -290px; }}
+@media screen and (max-width: 700px) {#container .padding { top: -190px; }}
+@media screen and (max-width: 600px) {#container .padding { top: -140px; }}
+@media screen and (max-width: 500px) {#container .padding { top: -90px; }}
+@media screen and (max-width: 320px) {#container .padding { top: -40px; }}

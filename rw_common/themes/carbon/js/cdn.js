@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$('head').append('<script type="text/javascript" src="https://nickcates.cachefly.net/rapidweaver/carbon/function.js"></script>');});
