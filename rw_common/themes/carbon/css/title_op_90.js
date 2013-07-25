@@ -1,1 +1,0 @@
-var siteTitleOp = 0.9;
